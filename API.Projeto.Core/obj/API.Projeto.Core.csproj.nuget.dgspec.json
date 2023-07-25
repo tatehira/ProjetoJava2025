@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\wendrew.nick\\Pictures\\CRUD-Api\\API.Projeto.Core\\API.Projeto.Core.csproj": {}
+    "C:\\Users\\wendrew.nick\\Pictures\\CRUD-Api\\API.Projeto.Core\\Api.Projeto.Core.csproj": {}
   },
   "projects": {
-    "C:\\Users\\wendrew.nick\\Pictures\\CRUD-Api\\API.Projeto.Core\\API.Projeto.Core.csproj": {
+    "C:\\Users\\wendrew.nick\\Pictures\\CRUD-Api\\API.Projeto.Core\\Api.Projeto.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\wendrew.nick\\Pictures\\CRUD-Api\\API.Projeto.Core\\API.Projeto.Core.csproj",
-        "projectName": "API.Projeto.Core",
-        "projectPath": "C:\\Users\\wendrew.nick\\Pictures\\CRUD-Api\\API.Projeto.Core\\API.Projeto.Core.csproj",
+        "projectUniqueName": "C:\\Users\\wendrew.nick\\Pictures\\CRUD-Api\\API.Projeto.Core\\Api.Projeto.Core.csproj",
+        "projectName": "Api.Projeto.Core",
+        "projectPath": "C:\\Users\\wendrew.nick\\Pictures\\CRUD-Api\\API.Projeto.Core\\Api.Projeto.Core.csproj",
         "packagesPath": "C:\\Users\\wendrew.nick\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\wendrew.nick\\Pictures\\CRUD-Api\\API.Projeto.Core\\obj\\",
         "projectStyle": "PackageReference",
@@ -29,8 +29,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\wendrew.nick\\Pictures\\CRUD-Api\\API.Projeto.Dto\\API.Projeto.csproj": {
-                "projectPath": "C:\\Users\\wendrew.nick\\Pictures\\CRUD-Api\\API.Projeto.Dto\\API.Projeto.csproj"
+              "C:\\Users\\wendrew.nick\\Pictures\\CRUD-Api\\API.Projeto.Dto\\Api.Project.csproj": {
+                "projectPath": "C:\\Users\\wendrew.nick\\Pictures\\CRUD-Api\\API.Projeto.Dto\\Api.Project.csproj"
               }
             }
           }
@@ -70,12 +70,12 @@
         }
       }
     },
-    "C:\\Users\\wendrew.nick\\Pictures\\CRUD-Api\\API.Projeto.Dto\\API.Projeto.csproj": {
+    "C:\\Users\\wendrew.nick\\Pictures\\CRUD-Api\\API.Projeto.Dto\\Api.Project.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\wendrew.nick\\Pictures\\CRUD-Api\\API.Projeto.Dto\\API.Projeto.csproj",
-        "projectName": "API.Projeto",
-        "projectPath": "C:\\Users\\wendrew.nick\\Pictures\\CRUD-Api\\API.Projeto.Dto\\API.Projeto.csproj",
+        "projectUniqueName": "C:\\Users\\wendrew.nick\\Pictures\\CRUD-Api\\API.Projeto.Dto\\Api.Project.csproj",
+        "projectName": "Api.Project",
+        "projectPath": "C:\\Users\\wendrew.nick\\Pictures\\CRUD-Api\\API.Projeto.Dto\\Api.Project.csproj",
         "packagesPath": "C:\\Users\\wendrew.nick\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\wendrew.nick\\Pictures\\CRUD-Api\\API.Projeto.Dto\\obj\\",
         "projectStyle": "PackageReference",

@@ -1211,17 +1211,17 @@
           "lib/netstandard1.3/System.Xml.XDocument.dll": {}
         }
       },
-      "API.Projeto/1.0.0": {
+      "Api.Project/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v7.0",
         "dependencies": {
           "Microsoft.AspNetCore.Mvc.Core": "2.2.5"
         },
         "compile": {
-          "bin/placeholder/API.Projeto.dll": {}
+          "bin/placeholder/Api.Project.dll": {}
         },
         "runtime": {
-          "bin/placeholder/API.Projeto.dll": {}
+          "bin/placeholder/Api.Project.dll": {}
         }
       }
     }
@@ -4064,15 +4064,15 @@
         "system.xml.xdocument.nuspec"
       ]
     },
-    "API.Projeto/1.0.0": {
+    "Api.Project/1.0.0": {
       "type": "project",
-      "path": "../API.Projeto.Dto/API.Projeto.csproj",
-      "msbuildProject": "../API.Projeto.Dto/API.Projeto.csproj"
+      "path": "../API.Projeto.Dto/Api.Project.csproj",
+      "msbuildProject": "../API.Projeto.Dto/Api.Project.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net7.0": [
-      "API.Projeto >= 1.0.0",
+      "Api.Project >= 1.0.0",
       "Microsoft.AspNetCore.Mvc.Core >= 2.2.5"
     ]
   },
@@ -4082,9 +4082,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\wendrew.nick\\Pictures\\CRUD-Api\\API.Projeto.Core\\API.Projeto.Core.csproj",
-      "projectName": "API.Projeto.Core",
-      "projectPath": "C:\\Users\\wendrew.nick\\Pictures\\CRUD-Api\\API.Projeto.Core\\API.Projeto.Core.csproj",
+      "projectUniqueName": "C:\\Users\\wendrew.nick\\Pictures\\CRUD-Api\\API.Projeto.Core\\Api.Project.Core.csproj",
+      "projectName": "Api.Project.Core",
+      "projectPath": "C:\\Users\\wendrew.nick\\Pictures\\CRUD-Api\\API.Projeto.Core\\Api.Project.Core.csproj",
       "packagesPath": "C:\\Users\\wendrew.nick\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\wendrew.nick\\Pictures\\CRUD-Api\\API.Projeto.Core\\obj\\",
       "projectStyle": "PackageReference",
@@ -4104,8 +4104,8 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "C:\\Users\\wendrew.nick\\Pictures\\CRUD-Api\\API.Projeto.Dto\\API.Projeto.csproj": {
-              "projectPath": "C:\\Users\\wendrew.nick\\Pictures\\CRUD-Api\\API.Projeto.Dto\\API.Projeto.csproj"
+            "C:\\Users\\wendrew.nick\\Pictures\\CRUD-Api\\API.Projeto.Dto\\Api.Project.csproj": {
+              "projectPath": "C:\\Users\\wendrew.nick\\Pictures\\CRUD-Api\\API.Projeto.Dto\\Api.Project.csproj"
             }
           }
         }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "71b135vkotXUkGv6gY8MmduaR44CaXeH4wNdt8wT25XClH5arPMZKb3C+lFn85TwzLUODD/93YmfuDZwZK0tjA==",
+  "dgSpecHash": "otSI5E+vebuc+i6nYOTyAiWMTjDDINzEs/reLwLrOLt4ZkOoSRg4jsVO+05bLB1baqr8ydETK3bXnsYfTWFPYA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\wendrew.nick\\Pictures\\CRUD-Api\\API.Projeto.Dto\\API.Projeto.csproj",
+  "projectFilePath": "C:\\Users\\wendrew.nick\\Pictures\\CRUD-Api\\API.Projeto.Dto\\Api.Project.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\wendrew.nick\\.nuget\\packages\\microsoft.aspnetcore.authentication.abstractions\\2.2.0\\microsoft.aspnetcore.authentication.abstractions.2.2.0.nupkg.sha512",
     "C:\\Users\\wendrew.nick\\.nuget\\packages\\microsoft.aspnetcore.authentication.core\\2.2.0\\microsoft.aspnetcore.authentication.core.2.2.0.nupkg.sha512",

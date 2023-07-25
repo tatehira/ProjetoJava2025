@@ -1,0 +1,15 @@
+C:\Users\wendrew.nick\Pictures\CRUD-Api\API.Projeto.Core\bin\Debug\net7.0\Api.Project.Core.deps.json
+C:\Users\wendrew.nick\Pictures\CRUD-Api\API.Projeto.Core\bin\Debug\net7.0\Api.Project.Core.dll
+C:\Users\wendrew.nick\Pictures\CRUD-Api\API.Projeto.Core\bin\Debug\net7.0\Api.Project.Core.pdb
+C:\Users\wendrew.nick\Pictures\CRUD-Api\API.Projeto.Core\bin\Debug\net7.0\Api.Project.dll
+C:\Users\wendrew.nick\Pictures\CRUD-Api\API.Projeto.Core\bin\Debug\net7.0\Api.Project.pdb
+C:\Users\wendrew.nick\Pictures\CRUD-Api\API.Projeto.Core\obj\Debug\net7.0\Api.Project.Core.csproj.AssemblyReference.cache
+C:\Users\wendrew.nick\Pictures\CRUD-Api\API.Projeto.Core\obj\Debug\net7.0\Api.Project.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wendrew.nick\Pictures\CRUD-Api\API.Projeto.Core\obj\Debug\net7.0\Api.Project.Core.AssemblyInfoInputs.cache
+C:\Users\wendrew.nick\Pictures\CRUD-Api\API.Projeto.Core\obj\Debug\net7.0\Api.Project.Core.AssemblyInfo.cs
+C:\Users\wendrew.nick\Pictures\CRUD-Api\API.Projeto.Core\obj\Debug\net7.0\Api.Project.Core.csproj.CoreCompileInputs.cache
+C:\Users\wendrew.nick\Pictures\CRUD-Api\API.Projeto.Core\obj\Debug\net7.0\Api.Project.Core.csproj.CopyComplete
+C:\Users\wendrew.nick\Pictures\CRUD-Api\API.Projeto.Core\obj\Debug\net7.0\Api.Project.Core.dll
+C:\Users\wendrew.nick\Pictures\CRUD-Api\API.Projeto.Core\obj\Debug\net7.0\refint\Api.Project.Core.dll
+C:\Users\wendrew.nick\Pictures\CRUD-Api\API.Projeto.Core\obj\Debug\net7.0\Api.Project.Core.pdb
+C:\Users\wendrew.nick\Pictures\CRUD-Api\API.Projeto.Core\obj\Debug\net7.0\ref\Api.Project.Core.dll

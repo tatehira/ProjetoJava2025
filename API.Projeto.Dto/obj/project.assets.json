@@ -4063,9 +4063,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\wendrew.nick\\Pictures\\CRUD-Api\\API.Projeto.Dto\\API.Projeto.csproj",
-      "projectName": "API.Projeto",
-      "projectPath": "C:\\Users\\wendrew.nick\\Pictures\\CRUD-Api\\API.Projeto.Dto\\API.Projeto.csproj",
+      "projectUniqueName": "C:\\Users\\wendrew.nick\\Pictures\\CRUD-Api\\API.Projeto.Dto\\Api.Project.csproj",
+      "projectName": "Api.Project",
+      "projectPath": "C:\\Users\\wendrew.nick\\Pictures\\CRUD-Api\\API.Projeto.Dto\\Api.Project.csproj",
       "packagesPath": "C:\\Users\\wendrew.nick\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\wendrew.nick\\Pictures\\CRUD-Api\\API.Projeto.Dto\\obj\\",
       "projectStyle": "PackageReference",

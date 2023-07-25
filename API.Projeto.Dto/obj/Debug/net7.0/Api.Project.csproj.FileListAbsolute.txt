@@ -1,0 +1,12 @@
+C:\Users\wendrew.nick\Pictures\CRUD-Api\API.Projeto.Dto\bin\Debug\net7.0\Api.Project.deps.json
+C:\Users\wendrew.nick\Pictures\CRUD-Api\API.Projeto.Dto\bin\Debug\net7.0\Api.Project.dll
+C:\Users\wendrew.nick\Pictures\CRUD-Api\API.Projeto.Dto\bin\Debug\net7.0\Api.Project.pdb
+C:\Users\wendrew.nick\Pictures\CRUD-Api\API.Projeto.Dto\obj\Debug\net7.0\Api.Project.csproj.AssemblyReference.cache
+C:\Users\wendrew.nick\Pictures\CRUD-Api\API.Projeto.Dto\obj\Debug\net7.0\Api.Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wendrew.nick\Pictures\CRUD-Api\API.Projeto.Dto\obj\Debug\net7.0\Api.Project.AssemblyInfoInputs.cache
+C:\Users\wendrew.nick\Pictures\CRUD-Api\API.Projeto.Dto\obj\Debug\net7.0\Api.Project.AssemblyInfo.cs
+C:\Users\wendrew.nick\Pictures\CRUD-Api\API.Projeto.Dto\obj\Debug\net7.0\Api.Project.csproj.CoreCompileInputs.cache
+C:\Users\wendrew.nick\Pictures\CRUD-Api\API.Projeto.Dto\obj\Debug\net7.0\Api.Project.dll
+C:\Users\wendrew.nick\Pictures\CRUD-Api\API.Projeto.Dto\obj\Debug\net7.0\refint\Api.Project.dll
+C:\Users\wendrew.nick\Pictures\CRUD-Api\API.Projeto.Dto\obj\Debug\net7.0\Api.Project.pdb
+C:\Users\wendrew.nick\Pictures\CRUD-Api\API.Projeto.Dto\obj\Debug\net7.0\ref\Api.Project.dll

@@ -1,6 +1,6 @@
 namespace API.Projeto.Dto.Models
 {
-    public class WeatherForecastDto
+    public class WeatherForecast
     {
         public DateOnly Date { get; set; }
 
