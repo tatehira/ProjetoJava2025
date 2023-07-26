@@ -7,7 +7,7 @@ obj/
 *.log
 
 # Diretórios temporários do Visual Studio
-*/obj/
+*\obj\
 
 # Arquivos gerados automaticamente pelo Visual Studio
 [Bb]in/
