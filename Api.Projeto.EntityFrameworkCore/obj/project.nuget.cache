@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "f1ODviLLjy7YrgsdEUJap2nR759XT4xlSCwc5XMbap4sABmwIhwqfdINCJ++5Dt32eFgR8IwhqF+w1Y0zRi0TA==",
+  "dgSpecHash": "bb6/QhdXRH7mk6IYNTb5S3iZScll7LehDrImn7usSH6zY1X3/2xRUlsUxBNZMXO+28vbfX8zXJNsL67yArDEuQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\wendrew.nick\\Pictures\\CRUD-Api\\Api.Projeto.EntityFrameworkCore\\Api.Project.EntityFrameworkCore.csproj",
+  "projectFilePath": "C:\\Users\\wendrew.nick\\Desktop\\CRUD-API-CSharp\\Api.Projeto.EntityFrameworkCore\\Api.Project.EntityFrameworkCore.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\wendrew.nick\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\wendrew.nick\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",
