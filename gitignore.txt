@@ -6,6 +6,8 @@
 #Debug
 Debug/
 bin/
+.vs/
+API.Projeto.Dto/obj
 
 # User-specific files
 *.rsuser
