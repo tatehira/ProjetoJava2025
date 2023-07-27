@@ -1,6 +1,7 @@
 var builder = WebApplication.CreateBuilder(args);
 
-// Add services to the container.
+// Add ConnectionString
+builder.Configuration.GetConnectionString("DefaultConnection");
 
 builder.Services.AddControllers();
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
@@ -19,6 +20,15 @@ if (app.Environment.IsDevelopment())
 app.UseHttpsRedirection();
 
 app.UseAuthorization();
+
+// Configurar o middleware de CORS para acesso no frontend
+app.UseCors(builder =>
+{
+    builder.AllowAnyOrigin()
+           .AllowAnyMethod()
+           .AllowAnyHeader();
+});
+
 
 app.MapControllers();
 
