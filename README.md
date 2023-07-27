@@ -6,8 +6,11 @@
 	4- Hosts
 
 
-	Dependencias para migration e conexão com banco:
-	Install-Package Microsoft.EntityFrameworkCore
-	Microsoft.EntityFrameworkCore.SqlServer
-	Install-Package Microsoft.EntityFrameworkCore.Design
-	Install-Package Microsoft.EntityFrameworkCore.Tools
+Dependencias para migration e conexão com banco:
+
+- Install-Package Microsoft.EntityFrameworkCore
+- Microsoft.EntityFrameworkCore.SqlServer
+- Install-Package Microsoft.EntityFrameworkCore.Design
+- Install-Package Microsoft.EntityFrameworkCore.Tools
+- Install-Package AutoMapper
+- Install-Package AutoMapper.Extensions.Microsoft.DependencyInjection
