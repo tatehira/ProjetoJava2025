@@ -31,6 +31,8 @@ namespace CRUD_Api
                 });
             });
 
+            // Configuração do AutoMapper
+            services.AddAutoMapper(typeof(Startup));
         }
 
         public void Configure(IApplicationBuilder app, IWebHostEnvironment env)
