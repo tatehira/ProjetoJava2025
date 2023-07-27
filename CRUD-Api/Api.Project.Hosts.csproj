@@ -14,7 +14,13 @@
   </ItemGroup>
 
   <ItemGroup>
+    <Folder Include="Controllers\" />
+  </ItemGroup>
+
+  <ItemGroup>
     <ProjectReference Include="..\API.Projeto.Core\Api.Project.Core.csproj" />
+    <ProjectReference Include="..\API.Projeto.Dto\Api.Project.csproj" />
+    <ProjectReference Include="..\Api.Projeto.EntityFrameworkCore\Api.Project.EntityFrameworkCore.csproj" />
   </ItemGroup>
 
 </Project>

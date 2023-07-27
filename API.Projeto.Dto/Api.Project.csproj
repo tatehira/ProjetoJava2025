@@ -9,4 +9,9 @@
     <PackageReference Include="Microsoft.AspNetCore.Mvc.Core" Version="2.2.5" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\API.Projeto.Core\Api.Project.Core.csproj" />
+    <ProjectReference Include="..\Api.Projeto.EntityFrameworkCore\Api.Project.EntityFrameworkCore.csproj" />
+  </ItemGroup>
+
 </Project>

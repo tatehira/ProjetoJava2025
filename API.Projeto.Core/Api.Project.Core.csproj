@@ -10,7 +10,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\API.Projeto.Dto\Api.Project.csproj" />
+    <Folder Include="Models\" />
   </ItemGroup>
 
 </Project>
