@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\wendrew.nick\\Desktop\\CRUD-API-CSharp\\Api.Projeto.EntityFrameworkCore\\Api.Project.EntityFrameworkCore.csproj": {}
+    "C:\\Users\\wendrew.nick\\Documents\\Projetos\\Nick\\CRUD-API-CSharp\\Api.Projeto.EntityFrameworkCore\\Api.Project.EntityFrameworkCore.csproj": {}
   },
   "projects": {
-    "C:\\Users\\wendrew.nick\\Desktop\\CRUD-API-CSharp\\Api.Projeto.EntityFrameworkCore\\Api.Project.EntityFrameworkCore.csproj": {
+    "C:\\Users\\wendrew.nick\\Documents\\Projetos\\Nick\\CRUD-API-CSharp\\API.Projeto.Core\\Api.Project.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\wendrew.nick\\Desktop\\CRUD-API-CSharp\\Api.Projeto.EntityFrameworkCore\\Api.Project.EntityFrameworkCore.csproj",
-        "projectName": "Api.Project.EntityFrameworkCore",
-        "projectPath": "C:\\Users\\wendrew.nick\\Desktop\\CRUD-API-CSharp\\Api.Projeto.EntityFrameworkCore\\Api.Project.EntityFrameworkCore.csproj",
+        "projectUniqueName": "C:\\Users\\wendrew.nick\\Documents\\Projetos\\Nick\\CRUD-API-CSharp\\API.Projeto.Core\\Api.Project.Core.csproj",
+        "projectName": "Api.Project.Core",
+        "projectPath": "C:\\Users\\wendrew.nick\\Documents\\Projetos\\Nick\\CRUD-API-CSharp\\API.Projeto.Core\\Api.Project.Core.csproj",
         "packagesPath": "C:\\Users\\wendrew.nick\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\wendrew.nick\\Desktop\\CRUD-API-CSharp\\Api.Projeto.EntityFrameworkCore\\obj\\",
+        "outputPath": "C:\\Users\\wendrew.nick\\Documents\\Projetos\\Nick\\CRUD-API-CSharp\\API.Projeto.Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\wendrew.nick\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -29,6 +29,72 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Mvc.Core": {
+              "target": "Package",
+              "version": "[2.2.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\wendrew.nick\\Documents\\Projetos\\Nick\\CRUD-API-CSharp\\Api.Projeto.EntityFrameworkCore\\Api.Project.EntityFrameworkCore.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\wendrew.nick\\Documents\\Projetos\\Nick\\CRUD-API-CSharp\\Api.Projeto.EntityFrameworkCore\\Api.Project.EntityFrameworkCore.csproj",
+        "projectName": "Api.Project.EntityFrameworkCore",
+        "projectPath": "C:\\Users\\wendrew.nick\\Documents\\Projetos\\Nick\\CRUD-API-CSharp\\Api.Projeto.EntityFrameworkCore\\Api.Project.EntityFrameworkCore.csproj",
+        "packagesPath": "C:\\Users\\wendrew.nick\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\wendrew.nick\\Documents\\Projetos\\Nick\\CRUD-API-CSharp\\Api.Projeto.EntityFrameworkCore\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\wendrew.nick\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Users\\wendrew.nick\\Documents\\Projetos\\Interno-Libs-Base": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\wendrew.nick\\Documents\\Projetos\\Nick\\CRUD-API-CSharp\\API.Projeto.Core\\Api.Project.Core.csproj": {
+                "projectPath": "C:\\Users\\wendrew.nick\\Documents\\Projetos\\Nick\\CRUD-API-CSharp\\API.Projeto.Core\\Api.Project.Core.csproj"
+              }
+            }
           }
         },
         "warningProperties": {

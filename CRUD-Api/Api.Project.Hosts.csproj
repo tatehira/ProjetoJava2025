@@ -7,12 +7,22 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <PackageReference Include="AutoMapper" Version="12.0.1" />
+    <PackageReference Include="AutoMapper.Extensions.Microsoft.DependencyInjection" Version="12.0.1" />
     <PackageReference Include="Microsoft.AspNetCore.OpenApi" Version="7.0.9" />
+    <PackageReference Include="Microsoft.Extensions.Configuration" Version="7.0.0" />
+    <PackageReference Include="Microsoft.Extensions.Configuration.Json" Version="7.0.0" />
     <PackageReference Include="Swashbuckle.AspNetCore" Version="6.5.0" />
   </ItemGroup>
 
   <ItemGroup>
+    <Folder Include="Controllers\" />
+  </ItemGroup>
+
+  <ItemGroup>
     <ProjectReference Include="..\API.Projeto.Core\Api.Project.Core.csproj" />
+    <ProjectReference Include="..\API.Projeto.Dto\Api.Project.csproj" />
+    <ProjectReference Include="..\Api.Projeto.EntityFrameworkCore\Api.Project.EntityFrameworkCore.csproj" />
   </ItemGroup>
 
 </Project>

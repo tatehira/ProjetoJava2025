@@ -1,0 +1,17 @@
+C:\Users\wendrew.nick\Documents\Projetos\Nick\CRUD-API-CSharp\Api.Projeto.EntityFrameworkCore\bin\Debug\net7.0\Api.Project.EntityFrameworkCore.deps.json
+C:\Users\wendrew.nick\Documents\Projetos\Nick\CRUD-API-CSharp\Api.Projeto.EntityFrameworkCore\bin\Debug\net7.0\Api.Project.EntityFrameworkCore.runtimeconfig.json
+C:\Users\wendrew.nick\Documents\Projetos\Nick\CRUD-API-CSharp\Api.Projeto.EntityFrameworkCore\bin\Debug\net7.0\Api.Project.EntityFrameworkCore.dll
+C:\Users\wendrew.nick\Documents\Projetos\Nick\CRUD-API-CSharp\Api.Projeto.EntityFrameworkCore\bin\Debug\net7.0\Api.Project.EntityFrameworkCore.pdb
+C:\Users\wendrew.nick\Documents\Projetos\Nick\CRUD-API-CSharp\Api.Projeto.EntityFrameworkCore\bin\Debug\net7.0\Api.Project.Core.dll
+C:\Users\wendrew.nick\Documents\Projetos\Nick\CRUD-API-CSharp\Api.Projeto.EntityFrameworkCore\bin\Debug\net7.0\Api.Project.Core.pdb
+C:\Users\wendrew.nick\Documents\Projetos\Nick\CRUD-API-CSharp\Api.Projeto.EntityFrameworkCore\obj\Debug\net7.0\Api.Project.EntityFrameworkCore.csproj.AssemblyReference.cache
+C:\Users\wendrew.nick\Documents\Projetos\Nick\CRUD-API-CSharp\Api.Projeto.EntityFrameworkCore\obj\Debug\net7.0\Api.Project.EntityFrameworkCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wendrew.nick\Documents\Projetos\Nick\CRUD-API-CSharp\Api.Projeto.EntityFrameworkCore\obj\Debug\net7.0\Api.Project.EntityFrameworkCore.AssemblyInfoInputs.cache
+C:\Users\wendrew.nick\Documents\Projetos\Nick\CRUD-API-CSharp\Api.Projeto.EntityFrameworkCore\obj\Debug\net7.0\Api.Project.EntityFrameworkCore.AssemblyInfo.cs
+C:\Users\wendrew.nick\Documents\Projetos\Nick\CRUD-API-CSharp\Api.Projeto.EntityFrameworkCore\obj\Debug\net7.0\Api.Project.EntityFrameworkCore.csproj.CoreCompileInputs.cache
+C:\Users\wendrew.nick\Documents\Projetos\Nick\CRUD-API-CSharp\Api.Projeto.EntityFrameworkCore\obj\Debug\net7.0\Api.Project.EntityFrameworkCore.csproj.CopyComplete
+C:\Users\wendrew.nick\Documents\Projetos\Nick\CRUD-API-CSharp\Api.Projeto.EntityFrameworkCore\obj\Debug\net7.0\Api.Project.EntityFrameworkCore.dll
+C:\Users\wendrew.nick\Documents\Projetos\Nick\CRUD-API-CSharp\Api.Projeto.EntityFrameworkCore\obj\Debug\net7.0\refint\Api.Project.EntityFrameworkCore.dll
+C:\Users\wendrew.nick\Documents\Projetos\Nick\CRUD-API-CSharp\Api.Projeto.EntityFrameworkCore\obj\Debug\net7.0\Api.Project.EntityFrameworkCore.pdb
+C:\Users\wendrew.nick\Documents\Projetos\Nick\CRUD-API-CSharp\Api.Projeto.EntityFrameworkCore\obj\Debug\net7.0\Api.Project.EntityFrameworkCore.genruntimeconfig.cache
+C:\Users\wendrew.nick\Documents\Projetos\Nick\CRUD-API-CSharp\Api.Projeto.EntityFrameworkCore\obj\Debug\net7.0\ref\Api.Project.EntityFrameworkCore.dll
