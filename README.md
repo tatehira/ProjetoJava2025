@@ -6,7 +6,7 @@
 	4- Hosts
 
 
-	Dependencias para migration e conexão com banco:
+Dependencias para migration e conexão com banco:
 
 - Install-Package Microsoft.EntityFrameworkCore
 - Microsoft.EntityFrameworkCore.SqlServer
