@@ -4,6 +4,13 @@ O **SorteSua!** é um website de loteria fictício desenvolvido com o objetivo d
 
 Este projeto utiliza boas práticas de arquitetura e design de software, sendo estruturado com o padrão **MVC (Model-View-Controller)** e implementado com tecnologias clássicas e robustas do ecossistema Java EE.
 
+## 💻 Apresentação:
+
+<p align="center">
+<a href="https://github.com/lucasmarcuzo/Projeto-Loteria-SorteSua">
+<img  width="800"  height="400" src="presentation/SorteSua!.gif">
+</p>
+
 ## 🚀 Tecnologias Utilizadas
 - Java 11
 - JSP (JavaServer Pages)
@@ -46,7 +53,7 @@ Esse modelo permite uma **separação clara de responsabilidades**, facilitando 
 ### Passos:
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/seu-usuario/sortesua.git
+   git clone https://github.com/tatehira/ProjetoJava2025
    ```
 2. Importe como projeto Maven em sua IDE.
 3. Compile o projeto com:
