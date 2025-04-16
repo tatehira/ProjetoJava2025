@@ -1,43 +1,7 @@
 <!DOCTYPE html>
 <html lang="pt-BR">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <h1>SorteSua! - README</h1>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            line-height: 1.6;
-            margin: 40px;
-            background-color: #f9f9f9;
-            color: #333;
-        }
-        h1, h2, h3 {
-            color: #2c3e50;
-        }
-        code {
-            background-color: #eee;
-            padding: 2px 4px;
-            border-radius: 4px;
-            font-family: monospace;
-        }
-        pre {
-            background-color: #f4f4f4;
-            padding: 10px;
-            overflow-x: auto;
-            border-left: 5px solid #ccc;
-        }
-        ul {
-            margin-top: 0;
-        }
-        .creditos {
-            font-style: italic;
-            margin-top: 40px;
-            color: #555;
-        }
-    </style>
-</head>
-<body>
+
 
     <h1>🎲 SorteSua! - Sistema de Loteria Online</h1>
 
