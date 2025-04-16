@@ -1,5 +1,4 @@
-<!DOCTYPE html>
-<html lang="pt-BR">
+
     <h1>SorteSua! - README</h1>
 
 
@@ -83,5 +82,3 @@
         <p>Este projeto foi baseado nas aulas do professor <strong>While True</strong>, com adaptações feitas para fins de estudo e aprimoramento técnico.</p>
     </div>
 
-</body>
-</html>
