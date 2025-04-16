@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>SorteSua! - README</title>
+    <h1>SorteSua! - README</h1>
     <style>
         body {
             font-family: Arial, sans-serif;
