@@ -1,5 +1,4 @@
-
-    <h1>SorteSua! - README</h1>
+<h1>SorteSua! - README</h1>
 
 
     <h1>🎲 SorteSua! - Sistema de Loteria Online</h1>
